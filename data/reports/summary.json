@@ -1,0 +1,12 @@
+{
+  "linhas": 1217,
+  "colunas": 24,
+  "periodo_min": "2024-08-15 03:53:55",
+  "periodo_max": "2025-08-14 12:47:05",
+  "receita_total": 10650717.799999999,
+  "qtd_pedidos": 1217,
+  "qtd_vendedores": 23,
+  "qtd_clientes": 29,
+  "qtd_produtos": 16,
+  "money_in_cents": false
+}

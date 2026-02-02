@@ -1,0 +1,8 @@
+pandas
+streamlit
+plotly
+numpy
+statsmodels
+pyarrow
+kaleido
+pptx
