@@ -1,4 +1,4 @@
-# Análise de Vendas — Python, Power BI e Streamlit
+# Análise de Vendas — Python e Streamlit
 
 Projeto para **preparação de dados de vendas**, **dashboard interativo em Streamlit** e **Geração da iamgensdos reports**.
 
